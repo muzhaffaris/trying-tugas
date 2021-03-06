@@ -1,3 +1,4 @@
 # trying-tugas
-buat nyoba-nyoba tugas
-[W01](/W01/)<br>
+buat nyoba-nyoba tugas<br>
+
+[W01](https://muzhaffaris.github.io/trying-tugas/W01/)<br>
